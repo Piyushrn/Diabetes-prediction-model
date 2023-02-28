@@ -1,5 +1,4 @@
 # Diabetes-prediction-model
-This repository consists all the porjects done by me.
 
 Dataset - https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
 
